@@ -2,7 +2,7 @@
 A reference implementation of Microsoft's EZ indoor positioning system in Matlab (2015b) with some heuristic variants supplied for comparison.
 
 
-Please contact martinhiggs85@googlemail.com or iain.bate@york.ac.uk for a paper to reference when extending for academic use. Otherwise please give credit where credit is due.
+Please reference the paper included in this repository when including this work for academic use, and contact martinhiggs85@googlemail.com or iain.bate@york.ac.uk with any queries. Otherwise please give credit where credit is due.
 
 This implementation is provided as a reference implementation for experimentation primarily. Use in other projects is acceptable but the software is provided as-is and as such the authors accept no liability and provide no guarantee when it is used.
 
